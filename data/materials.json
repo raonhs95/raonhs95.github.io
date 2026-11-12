@@ -873,5 +873,280 @@
       "/materials/wheel-track-detective/preview-3.webp"
     ],
     "file": "/materials/wheel-track-detective/wheel-track-detective.pdf"
+  },
+  {
+    "id": "warm-ice",
+    "name": "따뜻한 얼음",
+    "line": "딸깍 누르면 하얗게 굳는 손난로로, 얼음처럼 보이는데 따뜻한 것을 살피는 놀이",
+    "themes": [
+      "winter"
+    ],
+    "methods": [
+      "choose",
+      "move",
+      "draw",
+      "speak"
+    ],
+    "kind": "활동지",
+    "age": "만 3~5세",
+    "pages": 8,
+    "format": "PDF",
+    "price": 0,
+    "levels": "3수준 · 만지기 전에 골라 보기 / 퍼지는 길 맞히고 그리기 / 얼음과 견주어 이야기하기",
+    "levelsDetail": "보이는 것과 만진 느낌이 다른 물건으로 참여합니다. 차가울지 따뜻할지 가리키고 손을 대 보기만 해도 됩니다. 할 수 있는 아이는 하얗게 퍼지는 길을 맞히고 그리며, 더 나아가면 얼음과 견주어 무엇이 다른지 말합니다.",
+    "usage": "재사용 똑딱이 손난로 서너 개로 오전 안에 끝나도록 만들었습니다. 교실 기록은 아직 없습니다.",
+    "print": {
+      "paper": "A4 8장",
+      "color": "컬러 권장 · 흑백으로 뽑아도 됩니다",
+      "laminate": "4쪽 고르기 판은 코팅하면 오래 씁니다",
+      "cutting": "5쪽 카드를 한 장씩 오려 둡니다"
+    },
+    "supplies": [
+      "재사용 똑딱이 손난로 3~4개 (동그라미·하트·네모)",
+      "얼음 몇 조각과 접시, 크레파스",
+      "다시 쓰려면 끓일 냄비 (선생님만)",
+      "새거나 터진 손난로는 쓰지 않습니다"
+    ],
+    "steps": [
+      "얼음과 손난로를 두고 4쪽에서 차가울지 따뜻할지 고릅니다.",
+      "6쪽에 누를 자리를 그린 뒤 쇠단추를 딸깍 꺾습니다.",
+      "하얗게 퍼지는 모습을 보고 퍼진 길을 그립니다.",
+      "굳은 손난로를 두 손으로 감싸고 옆 친구에게 건넵니다.",
+      "5쪽 카드를 나누고 7쪽에서 얼음과 견주어 봅니다."
+    ],
+    "joinWays": [
+      {
+        "method": "choose",
+        "how": "만지기 전에 차가울지 따뜻할지 가리킵니다."
+      },
+      {
+        "method": "move",
+        "how": "쇠단추를 꺾고, 굳은 손난로를 손에서 손으로 건넵니다."
+      },
+      {
+        "method": "draw",
+        "how": "누를 자리와 하얗게 퍼진 길을 그립니다."
+      },
+      {
+        "method": "speak",
+        "how": "\"얼음처럼 생겼는데 왜 따뜻할까?\" 떠오른 까닭을 말합니다."
+      }
+    ],
+    "choicePoint": "어디를 누를지, 굳은 손난로를 누구에게 건넬지 아이가 정합니다.",
+    "nextPlay": "선생님이 손난로를 끓여 다시 투명하게 만드는 모습을 멀리서 지켜봅니다. 다음 날 다른 자리를 눌러 퍼지는 길을 견줍니다.",
+    "cover": "/materials/warm-ice/cover.webp",
+    "previews": [
+      "/materials/warm-ice/preview-1.webp",
+      "/materials/warm-ice/preview-2.webp",
+      "/materials/warm-ice/preview-3.webp"
+    ],
+    "file": "/materials/warm-ice/warm-ice.pdf"
+  },
+  {
+    "id": "sweater-one-thread",
+    "name": "니트 한 벌은 실 한 줄",
+    "line": "집에서 가져온 안 입는 니트를 당겨 풀어, 옷이 실 한 줄이었음을 알아보는 놀이",
+    "themes": [
+      "winter",
+      "family"
+    ],
+    "methods": [
+      "move",
+      "choose",
+      "paste",
+      "speak"
+    ],
+    "kind": "가정 연계",
+    "age": "만 3~5세",
+    "pages": 8,
+    "format": "PDF",
+    "price": 0,
+    "levels": "3수준 · 실 끝 찾아 당겨 풀기 / 풀린 실 걸음으로 재기 / 꼬불 실로 그림 만들기",
+    "levelsDetail": "늘 입는 옷을 다르게 보는 눈으로 참여합니다. 실 끝을 잡고 당기기만 해도 됩니다. 할 수 있는 아이는 몇 걸음일지 맞히고 실을 따라 걸으며 세고, 더 나아가면 꼬불 실이 무엇이 될지 정해 그림을 만듭니다.",
+    "usage": "집에서 보낸 니트 한 벌과 풀만으로 시작하도록 만들었습니다. 교실 기록은 아직 없습니다.",
+    "print": {
+      "paper": "A4 8장 (3쪽은 아이 수만큼 더)",
+      "color": "흑백으로 뽑아도 됩니다",
+      "laminate": "5쪽 고르기 판은 코팅하면 오래 씁니다",
+      "cutting": "오릴 것은 없습니다"
+    },
+    "supplies": [
+      "3쪽 가정 통신 (아이 수만큼)",
+      "집에서 보낸 니트, 목도리, 털모자, 털장갑",
+      "가위 (선생님용), 딱풀, 크레파스",
+      "넓게 펼칠 교실 바닥이나 복도"
+    ],
+    "steps": [
+      "3쪽을 집으로 보내 안 입는 니트를 받습니다.",
+      "선생님이 끝단을 한두 줄 풀어 실 끝을 만들어 둡니다.",
+      "5쪽에서 풀 옷을 고르고 6쪽에 몇 걸음일지 맞힙니다.",
+      "실 끝을 당겨 풀고 바닥에 펼쳐 걸음으로 잽니다.",
+      "꼬불 실을 잘라 7쪽에 붙이고 무엇이 될지 정합니다."
+    ],
+    "joinWays": [
+      {
+        "method": "move",
+        "how": "실 끝을 잡고 당겨 풀고, 풀린 실을 따라 걷습니다."
+      },
+      {
+        "method": "choose",
+        "how": "어느 옷부터 풀지 고릅니다. 가리키기만 해도 됩니다."
+      },
+      {
+        "method": "paste",
+        "how": "꼬불 실을 잘라 그림에 붙입니다."
+      },
+      {
+        "method": "speak",
+        "how": "\"이 옷은 누가 입던 옷이야?\" 옷 이야기를 나눕니다."
+      }
+    ],
+    "choicePoint": "어느 옷을 풀지, 꼬불 실을 무엇으로 만들지 아이가 정합니다.",
+    "nextPlay": "가장 긴 실과 가장 짧은 실을 나란히 펼쳐 견줍니다. 남은 실은 모아 창가에 꼬불 실 구름으로 매답니다.",
+    "cover": "/materials/sweater-one-thread/cover.webp",
+    "previews": [
+      "/materials/sweater-one-thread/preview-1.webp",
+      "/materials/sweater-one-thread/preview-2.webp",
+      "/materials/sweater-one-thread/preview-3.webp"
+    ],
+    "file": "/materials/sweater-one-thread/sweater-one-thread.pdf"
+  },
+  {
+    "id": "net-foam-snow",
+    "name": "거품 눈 기계",
+    "line": "귤 그물망과 빈 페트병으로 하얀 거품 눈을 길게 불어 내는 놀이",
+    "themes": [
+      "winter"
+    ],
+    "methods": [
+      "move",
+      "choose",
+      "draw",
+      "paste"
+    ],
+    "kind": "감각·미술 놀이",
+    "age": "만 4~5세",
+    "pages": 8,
+    "format": "PDF",
+    "price": 0,
+    "levels": "3수준 · 후 불기 연습하고 거품 내기 / 씌우는 것 바꿔 견주기 / 거품 눈 마을 꾸미고 찍기",
+    "levelsDetail": "버려지던 귤망을 눈 만드는 기계로 바꿔 참여합니다. 휴지나 바람개비를 후 불어 날리기만 해도 됩니다. 할 수 있는 아이는 씌우는 것을 바꿔 거품을 견주고, 더 나아가면 거품 눈으로 겨울 마을을 꾸밉니다.",
+    "usage": "귤 먹은 날 남은 망과 빈 페트병으로 오전 안에 끝나도록 만들었습니다. 교실 기록은 아직 없습니다.",
+    "print": {
+      "paper": "A4 8장",
+      "color": "컬러 권장 · 흑백으로 뽑아도 됩니다",
+      "laminate": "4쪽 고르기 판은 코팅하면 오래 씁니다",
+      "cutting": "6쪽 카드를 오려 이쑤시개나 빨대에 붙입니다"
+    },
+    "supplies": [
+      "빈 페트병 (한 사람에 하나, 아랫부분을 잘라 테이프)",
+      "귤망, 양파망, 안 쓰는 양말, 작은 수건, 고무줄",
+      "순한 주방 세제 비눗물과 얕은 접시",
+      "쟁반, 물감 조금"
+    ],
+    "steps": [
+      "4쪽에서 고른 것을 후 불어 날리며 내쉬기를 연습합니다.",
+      "페트병 입구에 귤망을 씌우고 고무줄로 묶습니다.",
+      "망 쪽을 비눗물에 담갔다 들고 병 입구로 길게 붑니다.",
+      "씌우는 것을 바꿔 불고 5쪽에 거품을 남깁니다.",
+      "쟁반에 거품 눈을 쌓고 6쪽 카드를 꽂아 마을을 만듭니다."
+    ],
+    "joinWays": [
+      {
+        "method": "move",
+        "how": "병 입구로 길게 후 불어 거품을 냅니다."
+      },
+      {
+        "method": "choose",
+        "how": "무엇을 씌울지, 무엇을 불어 연습할지 고릅니다."
+      },
+      {
+        "method": "draw",
+        "how": "거품 방울의 크기와 찍힌 무늬를 그립니다."
+      },
+      {
+        "method": "paste",
+        "how": "마을 카드를 오려 붙이고 거품 눈에 꽂습니다."
+      }
+    ],
+    "choicePoint": "어떤 망을 씌울지, 마을에 무엇을 세울지 아이가 정합니다.",
+    "nextPlay": "거품 눈과 얼음 조각 중 무엇이 먼저 사라지는지 견주어 봅니다. 「귤껍질 동물원」과 같은 날 껍질과 망을 함께 씁니다.",
+    "cover": "/materials/net-foam-snow/cover.webp",
+    "previews": [
+      "/materials/net-foam-snow/preview-1.webp",
+      "/materials/net-foam-snow/preview-2.webp",
+      "/materials/net-foam-snow/preview-3.webp"
+    ],
+    "file": "/materials/net-foam-snow/net-foam-snow.pdf"
+  },
+  {
+    "id": "bungeoppang-shop",
+    "name": "붕어 없는 붕어빵 가게",
+    "line": "붕어빵에는 왜 붕어가 없을까에서 시작해, 새 빵과 속을 지어내고 우리 반 빵 가게를 여는 역할놀이",
+    "themes": [
+      "winter",
+      "town"
+    ],
+    "methods": [
+      "choose",
+      "speak",
+      "move",
+      "draw"
+    ],
+    "kind": "꾸러미",
+    "age": "만 3~5세",
+    "pages": 8,
+    "format": "PDF",
+    "price": 0,
+    "levels": "3수준 · 그림 주문판으로 속 고르기 / 새 빵 모양과 속 지어내기 / 차림표 만들고 가게 열기",
+    "levelsDetail": "겨울 길거리 간식을 놀이 가게로 옮겨 세 가지 수준에 참여합니다. 주문판의 그림을 가리키거나 주문 카드를 건네기만 해도 됩니다. 할 수 있는 아이는 이름과 속이 맞는 새 빵을 클레이로 만들고, 더 나아가면 차림표를 꾸리고 몇 개 팔렸는지 셉니다.",
+    "usage": "클레이와 교실 블록만으로 오전 안에 끝나도록 만들었습니다. 교실 기록은 아직 없습니다.",
+    "print": {
+      "paper": "A4 8장 (5쪽은 손님 수만큼 더)",
+      "color": "컬러 권장 · 흑백으로 뽑아도 됩니다",
+      "laminate": "4쪽 주문판은 코팅하면 가게에서 계속 씁니다",
+      "cutting": "5쪽 주문 카드를 한 장씩 오립니다"
+    },
+    "supplies": [
+      "갈색·노랑·주황 클레이",
+      "작은 종이 봉투",
+      "가게를 차릴 블록이나 낮은 책상",
+      "크레파스",
+      "진짜 붕어빵 틀은 뜨거워서 쓰지 않습니다"
+    ],
+    "steps": [
+      "\"붕어빵에는 왜 붕어가 없을까?\"로 이야기를 엽니다.",
+      "클레이로 붕어 모양 빵을 만들고, 4쪽 주문판에서 속을 골라 넣습니다.",
+      "6쪽에 이름과 속이 맞는 새 빵을 지어내 그리고 클레이로 만듭니다.",
+      "블록으로 가게를 차리고 7쪽 차림표를 세웁니다.",
+      "손님은 5쪽 주문 카드를 내밀고, 주인은 봉투에 담아 건넵니다."
+    ],
+    "joinWays": [
+      {
+        "method": "choose",
+        "how": "주문판 그림을 가리키거나 주문 카드를 건넵니다."
+      },
+      {
+        "method": "speak",
+        "how": "\"팥 붕어빵 하나 주세요\" 주문하고 인사합니다."
+      },
+      {
+        "method": "move",
+        "how": "클레이를 빚어 빵을 만들고 봉투에 담아 건넵니다."
+      },
+      {
+        "method": "draw",
+        "how": "새 빵 모양과 차림표를 그립니다."
+      }
+    ],
+    "choicePoint": "어떤 속을 넣을지, 새 빵을 무엇으로 지을지 아이가 정합니다.",
+    "nextPlay": "가게 이름과 간판 그림을 함께 정하고, 이웃 반을 손님으로 불러 가게를 엽니다. 우리 동네에서 겨울에만 보이는 가게를 떠올려 그려 봅니다.",
+    "cover": "/materials/bungeoppang-shop/cover.webp",
+    "previews": [
+      "/materials/bungeoppang-shop/preview-1.webp",
+      "/materials/bungeoppang-shop/preview-2.webp",
+      "/materials/bungeoppang-shop/preview-3.webp"
+    ],
+    "file": "/materials/bungeoppang-shop/bungeoppang-shop.pdf"
   }
 ]
